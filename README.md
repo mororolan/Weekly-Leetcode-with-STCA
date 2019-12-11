@@ -1,2 +1,5 @@
 # Weekly-Leetcode-with-MS
-Weekly Lc
+Owner：Lan 
+Time：from 19.12.11
+
+## Record
