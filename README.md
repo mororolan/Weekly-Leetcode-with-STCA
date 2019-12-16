@@ -5,10 +5,10 @@
 ## Week4 Backtrack
 Index|Title|Solution(s)|Acceptance|Difficulty
 -|-|-|-|-
-401|[Binary Watch](https://leetcode.com/problems/binary-watch)||46.0%|Easy
+401|[Binary Watch](https://leetcode.com/problems/binary-watch)|√|46.0%|Easy
 687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)||34.8%|Easy
 46|[Permutations](https://leetcode.com/problems/permutations)||58.8%|Medium
-22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|[C++](./week4_backtrack/22.generate-parentheses.cpp)|58.4%|Medium
+22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)||58.4%|Medium
 78|[Subsets](https://leetcode.com/problems/subsets)||56.5%|Medium
 698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)||Medium
 17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)||43.9%|Medium
@@ -20,9 +20,9 @@ Index|Title|Solution(s)|Acceptance|Difficulty
 ## Week3 Tree
 Index|Title|Solution(s)|Acceptance|Difficulty
 -|-|-|-|-
-226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)||60.6%|Easy
-107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)||49.1%|Easy
-112|[Path Sum](https://leetcode.com/problems/path-sum)||39.3%|Easy
+226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|√|60.6%|Easy
+107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|√|49.1%|Easy
+112|[Path Sum](https://leetcode.com/problems/path-sum)|√|39.3%|Easy
 94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)||59.6%|Medium
 144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||53.3%|Medium
 236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)||41.1%|Medium
