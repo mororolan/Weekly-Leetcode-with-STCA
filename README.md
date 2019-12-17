@@ -6,9 +6,9 @@
 Index|Title|Solution(s)|Acceptance|Difficulty
 -|-|-|-|-
 401|[Binary Watch](https://leetcode.com/problems/binary-watch)|√|46.0%|Easy
-687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)||34.8%|Easy
-46|[Permutations](https://leetcode.com/problems/permutations)||58.8%|Medium
-22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)||58.4%|Medium
+687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)|√|34.8%|Easy
+46|[Permutations](https://leetcode.com/problems/permutations)|√|58.8%|Medium
+22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)|√|58.4%|Medium
 78|[Subsets](https://leetcode.com/problems/subsets)||56.5%|Medium
 698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)||Medium
 17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)||43.9%|Medium
