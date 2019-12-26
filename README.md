@@ -19,9 +19,9 @@ Index|Title|Solution(s)|Acceptance|Difficulty
 ## Week5 DFS And BFS
 Index|Title|Solution(s)|Acceptance|Difficulty
 -|-|-|-|-
-104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)||63.0%|Easy
-108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)||53.8%|Easy
-101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)||45.0%|Easy
+104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|√|63.0%|Easy
+108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|√|53.8%|Easy
+101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|√|45.0%|Easy
 199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)||50.6%|Medium
 394|[Decode String](https://leetcode.com/problems/decode-string)||47.3%|Medium
 114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)||45.3%|Medium
