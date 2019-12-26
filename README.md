@@ -2,6 +2,35 @@
 - Owner：Lan 
 - Time：from 19.12.11
 
+## Week6 Dynamic Programming
+Index|Title|Solution(s)|Acceptance|Difficulty
+-|-|-|-|-
+70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)||45.6%|Easy
+198|[House Robber](https://leetcode.com/problems/house-robber)||41.5%|Easy
+303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query---immutable)||40.8%|Easy
+64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)||49.7%|Medium
+309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)||45.2%|Medium
+300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||41.7%|Medium
+139|[Word Break](https://leetcode.com/problems/word-break)||37.4%|Medium
+322|[Coin Change](https://leetcode.com/problems/coin-change)||32.7%|Medium
+5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)||28.4%|Medium
+72|[Edit Distance](https://leetcode.com/problems/edit-distance)||40.4%|Hard
+
+## Week5 DFS And BFS
+Index|Title|Solution(s)|Acceptance|Difficulty
+-|-|-|-|-
+104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)||63.0%|Easy
+108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)||53.8%|Easy
+101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)||45.0%|Easy
+199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)||50.6%|Medium
+394|[Decode String](https://leetcode.com/problems/decode-string)||47.3%|Medium
+114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)||45.3%|Medium
+105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||44.4%|Medium
+109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)||43.7%|Medium
+116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)||40.5%|Medium
+488|[Zuma Game](https://leetcode.com/problems/zuma-game)||40.3%|Hard
+
+
 ## Week4 Backtrack
 Index|Title|Solution(s)|Acceptance|Difficulty
 -|-|-|-|-
