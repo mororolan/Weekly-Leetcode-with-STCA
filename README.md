@@ -5,8 +5,8 @@
 ## Week6 Dynamic Programming
 Index|Title|Solution(s)|Acceptance|Difficulty
 -|-|-|-|-
-70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)||45.6%|Easy
-198|[House Robber](https://leetcode.com/problems/house-robber)||41.5%|Easy
+70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|√|45.6%|Easy
+198|[House Robber](https://leetcode.com/problems/house-robber)|√|41.5%|Easy
 303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query---immutable)||40.8%|Easy
 64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)||49.7%|Medium
 309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)||45.2%|Medium
