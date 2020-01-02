@@ -9,7 +9,7 @@ Index|Title|Solution(s)|Acceptance|Difficulty
 198|[House Robber](https://leetcode.com/problems/house-robber)|√|41.5%|Easy
 303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|√|40.8%|Easy
 64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|√|49.7%|Medium
-309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)||45.2%|Medium
+309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)|√|45.2%|Medium
 300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||41.7%|Medium
 139|[Word Break](https://leetcode.com/problems/word-break)||37.4%|Medium
 322|[Coin Change](https://leetcode.com/problems/coin-change)||32.7%|Medium
